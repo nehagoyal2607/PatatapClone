@@ -1,3 +1,5 @@
 # PatatapClone
 A clone of **Patatap website**. <br>
-Press any key to see visual and audio effects on the website.
+
+![](imgs/patatap.PNG)
+Press any key to see visual animation and audio effects on the website.
